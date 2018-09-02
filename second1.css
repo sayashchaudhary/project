@@ -1,0 +1,47 @@
+body{
+	background-image: url("im.png");
+	background-repeat: no-repeat;
+	width: 98%;
+	height:98%;
+	background-size: cover;
+
+}
+form{
+	height: 95%;
+	width: 40%;
+	background: black;
+	padding: 20px;
+	margin: 0 auto;
+	opacity: .8;
+	border-radius: 10px;
+}
+form table{
+	margin-left: 22%;
+	margin-top: 40px;
+}
+form table tr td{
+	color: white;
+	padding-bottom: 20px;
+	font-size: 20 px;
+	font-style: bold;
+}
+form h2{
+	margin-left: 27%;
+	color: white;
+
+}
+form a {
+	background-color: lightgrey;
+			color: black;
+			display: inline-block;
+			text-decoration: none;
+			margin-left: 41%;
+			font-size: 23px;
+			width: 20%;
+			border-radius: 10px;
+			text-align: center;
+}
+form button{
+	margin-left: 50%;
+}
+
